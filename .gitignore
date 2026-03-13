@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+.env
+
+# JavaScript
+*.log
+.D```
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+.env
+
+# JavaScript
+*.log
+*.tmp
+
+# Laravel
+/vendor/
+.env
+Homestead.yaml
+Homestead.json
+/storage/*.key
+/storage/logs/
+/storage/framework/
+bootstrap/cache/
+
+# Others
+.DS_Store
+.idea/
+.vscode/
